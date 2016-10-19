@@ -17,13 +17,12 @@
 
 ### License
 
-<p>This software is licensed under the Apache 2 license, quoted below.</p>
+This software is licensed under the Apache 2 license, quoted below.
 
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
+  1. There is no expiry on the contract and thus no settlement.
+  2. Perpetual Swaps mimic a margin-based spot market and hence trade close to the underlying reference Index Price.
+
+- This is in contrast to a [Futures Contract](/app/futuresGuide) which may trade at significantly different prices due to basis.
 
 <p>Copyright (C) 2009-2016 Lightbend Inc. (https://www.lightbend.com).</p>
 
